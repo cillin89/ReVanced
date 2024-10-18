@@ -26,6 +26,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
 [X]
+enabled = false
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
